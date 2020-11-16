@@ -1,4 +1,4 @@
-# Pizza de Calabresa 
+# Pizza de Queijo 
 
 ## Ingredientes 
 
@@ -27,7 +27,7 @@
 * Azeite, pimenta e orégano a gosto
 
 
-  
+
 
 ## Modo de Preparo 
 
